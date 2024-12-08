@@ -1,0 +1,71 @@
+body {
+    font-family: 'Tahoma', sans-serif;
+    background-color: #fff;
+    color: #444;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2ecc71;
+    text-align: center;
+    color: white;
+    padding: 40px 20px;
+}
+
+header h1 {
+    font-size: 3rem;
+}
+
+nav {
+    background-color: #27ae60;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #2ecc71;
+}
+
+main {
+    padding: 40px 20px;
+}
+
+main h2 {
+    color: #2ecc71;
+    text-align: center;
+}
+
+main ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+
+main ul li {
+    margin: 10px 0;
+}
+
+footer {
+    background-color: #27ae60;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
